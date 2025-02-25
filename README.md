@@ -30,6 +30,8 @@ The main goal of this project was to create a map of Münster that highlights th
 
 ## Notion
 [Notion Link](https://www.notion.so/Teamspace-Home-1a0133c698328077b188d48ced8bb89f)
+## Miro Board
+[Miro Board Link](https://miro.com/app/board/uXjVIe78PmU=/)
 
 ## Team Members
 
