@@ -28,6 +28,9 @@ The main goal of this project was to create a map of Münster that highlights th
    - (Crowded Places)
    - Traffic
 
+## Notion
+[Notion Link](https://www.notion.so/Teamspace-Home-1a0133c698328077b188d48ced8bb89f)
+
 ## Team Members
 
 - **Ajay Ajay**
