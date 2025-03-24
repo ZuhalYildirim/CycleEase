@@ -11,22 +11,11 @@ The main goal of this project was to create a map of Münster that highlights th
 
 ### 1. **Calm**
    - Noise
-   - Traffic
    - Nature
-   - (Crowded Places)
 
 ### 2. **Safety**
-   - Physical Separation from Other Vehicles
-   - Junctions/Intersections
-   - Traffic
-
-### 3. **Easiness**
-   - Fewer Junctions/Intersections
-   - Surface Quality
-
-### 4. **Crowded**
-   - (Crowded Places)
-   - Traffic
+   - Accident Data
+   - Type of Road
 
 ## Notion
 [Notion Link](https://www.notion.so/Teamspace-Home-1a0133c698328077b188d48ced8bb89f)
